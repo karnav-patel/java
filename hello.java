@@ -10,5 +10,6 @@ public class hello{
        int y = 6;
        int z = x + y;
        System.out.println(z);
+       System.out.println("Hello!!!!!!!");
      }
 }
